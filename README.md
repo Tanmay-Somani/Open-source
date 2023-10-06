@@ -13,6 +13,6 @@ Just add what you think is good and youll be done.
 
 ## Contributing
 
-We welcome contributions from the community. If you'd like to contribute to this project, please read our [Contribution Guidelines](CONTRIBUTING.md) to get started.
+We welcome contributions from the community. If you'd like to contribute to this project, please read our [Contribution Guidelines](Contributing.md) to get started.
 
 Happy coding!
